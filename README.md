@@ -2,6 +2,10 @@
 
 Bike Care API is a backend service that allows users to register, login, post bike complaints, and add notes to those complaints. It also includes an admin interface for managing users and complaints.
 
+## Deployed Link
+
+- https://api-bike-care.onrender.com/
+  
 ## Features
 
 - User registration and authentication
